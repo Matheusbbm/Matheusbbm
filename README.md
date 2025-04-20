@@ -8,9 +8,8 @@ Olá, meu nome é Matheus Castro Santos e sou apaixonado por Tecnologia e estou 
  <a href = "mailto: matheuscastromp@gmail.com">
  <img 
    src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/matheus-castro-santos-a25608345/?trk=opento_sprofile_details" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   </a>
+  </a>
    <a href="https://www.instagram.com/matheus_castro.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
   </a> 
     <a href="https://github.com/Matheusbbm?tab=repositories&sort=stargazers">
         <img 
@@ -83,8 +82,10 @@ Olá, meu nome é Matheus Castro Santos e sou apaixonado por Tecnologia e estou 
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matheusbbm&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
