@@ -26,13 +26,9 @@ Olá, meu nome é Matheus Castro Santos e sou apaixonado por Tecnologia e estou 
         />
     </a>
 </p>
-
-
  
 ---
 
-
-  
 ### 🖥️ Linguagens e Tecnologias:
 <img 
     align="left" 
@@ -71,17 +67,11 @@ Olá, meu nome é Matheus Castro Santos e sou apaixonado por Tecnologia e estou 
 <br/>
 
 ---
- 
+
 ##  📊 Estatísticas:
 ![](https://github-readme-stats.vercel.app/api?username=matheusbbm&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=matheusbbm&theme=blue_navy&hide_border=false)<br/>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusbbm/Matheusbbm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusbbm/Matheusbbm/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Matheusbbm/Matheusbbm/output/github-snake.svg" />
-</picture>
-
 
 ---
 
@@ -90,6 +80,12 @@ Olá, meu nome é Matheus Castro Santos e sou apaixonado por Tecnologia e estou 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusbbm/Matheusbbm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusbbm/Matheusbbm/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Matheusbbm/Matheusbbm/output/github-snake.svg" />
+</picture> 
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
