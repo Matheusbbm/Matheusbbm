@@ -2,7 +2,7 @@
 
 **`𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝙰𝙳𝚂`**
 
-Olá, meu nome é Matheus Castro Santos e sou apaixonado por Tecnologia e estou Cursando faculdade de Análise e Desenvolvimento de Sistemas, estou me especializando para me tornar um Dev Full Stack. Sou uma pessoa que valoriza o trabalho em equipe e a colaboração, o que eu considero essencial para enfrentar os desafios do dia a dia no ambiente de trabalho e estou comprometido em aprender e me adaptar rapidamente às necessidades da empresa. 
+Olá, meu nome é Matheus Castro Santos e sou apaixonado por Tecnologia e estou Cursando faculdade de Análise e Desenvolvimento de Sistemas na UniCesumar, estou me especializando para me tornar um Dev Full Stack. Sou uma pessoa que valoriza o trabalho em equipe e a colaboração, o que eu considero essencial para enfrentar os desafios do dia a dia no ambiente em que vivemos e estou comprometido em aprender e me adaptar rapidamente às necessidades do meu aprendizado. 
 
 
  <a href = "mailto: matheuscastromp@gmail.com">
